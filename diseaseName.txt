@@ -1,72 +1,71 @@
-Prion diseases, or transmissible spongiform encephalopathies (TSE)
-Progeria
 African trypanosomiasis
-Plague — specifically the septicemic or pneumonic type
-Primary amoebic meningoencephalitis, Naegleria fowleri
-Rabies
-Visceral leishmaniasis
-Glanders, septicemic
-Smallpox Variola major — specifically the malignant (flat) or hemorrhagic type
-Granulomatous amoebic encephalitis, Balamuthia mandrillaris & Acanthamoeba
-Ebola virus disease — specifically EBOV "strain" (formerly Zaire Ebola virus)
-The CFR may be considerably lower with supportive care adopted in the 2013-15 West African epidemic.
 AIDS/HIV infection
-Anthrax, specifically the pulmonary form
-Lujo virus disease
-Aspergillosis, invasive pulmonary form
-Herpes B virus disease
-Smallpox, Variola major — in pregnant women
-Influenza A virus subtype H5N1
-Bubonic plague, untreated
-Tularemia pneumonia, untreated
-Ebola virus disease, Sudan variant (SUDV)
-Anthrax, gastorintestinal, intestinal type
-Ebola virus disease (for all types of ebolavirus outbreaks combined)
-Marburg virus disease - all outbreaks combined
-Glanders, septicemic
-Plague, pneumonic
-Middle Eastern Respiratory Syndrome
-Tuberculosis, untreated pulmonary, HIV-negative
-Reye's Syndrome
-Plague, septicemic
-Tularemia, typhoidal, untreated
-Yellow fever
-Eastern equine encephalitis virus
-Anthrax, gastrointestinal, oropharyngeal type
-Ebola virus disease, Bundibugyo variant (BDBV)
-Smallpox, Variola major — unvaccinated
-Varicella (chickenpox), newborns, untreated
-Dengue haemorrhagic fever (DHF)
-Leptospirosis
-Legionellosis
-Meningococcal disease
-Typhoid fever, untreated
-Severe acute respiratory syndrome (SARS)
-Intestinal capillariasis, untreated
-Visceral leishmaniasis
-Botulism
-Diphtheria, respiratory
-Bubonic plague
-Tularemia, typhoidal
-Pertussis (whooping cough), infants, unvaccinated, in developing countries
-Dengue fever (DF)
-Smallpox, Variola major — vaccinated
-Spanish (1918) flu
-Measles (rubeola), in developing countries
-Brucellosis, untreated
-Hepatitis A, adults > 50 years old
-Lassa Fever
-Mumps encephalitis
-Pertussis (whooping cough), children, unvaccinated, in developing countries
-Smallpox, Variola minor — unvaccinated
-Venezuelan Equine Encephalitis (VEE)
 Anthrax, cutaneous
-Typhoid fever
-Malaria
-Hepatitis A
+Anthrax, gastorintestinal, intestinal type
+Anthrax, gastrointestinal, oropharyngeal type
+Anthrax, specifically the pulmonary form
 Asian (1956–58) flu
+Aspergillosis, invasive pulmonary form
+Botulism
+Brucellosis, untreated
+Bubonic plague
+Bubonic plague, untreated
+Dengue fever (DF)
+Dengue haemorrhagic fever (DHF)
+Diphtheria, respiratory
+Eastern equine encephalitis virus
+Ebola virus disease, Bundibugyo variant (BDBV)
+Ebola virus disease (for all types of ebolavirus outbreaks combined)
+Ebola virus disease — specifically EBOV "strain" (formerly Zaire Ebola virus)
+Ebola virus disease, Sudan variant (SUDV)
+Glanders, septicemic
+Glanders, septicemic
+Granulomatous amoebic encephalitis, Balamuthia mandrillaris & Acanthamoeba
+Hand, foot and mouth disease, children < 5 years old
+Hepatitis A
+Hepatitis A, adults > 50 years old
+Herpes B virus disease
 Hong Kong (1968–69) flu
 Influenza A, typical pandemics
+Influenza A virus subtype H5N1
+Intestinal capillariasis, untreated
+Lassa Fever
+Legionellosis
+Leptospirosis
+Lujo virus disease
+Malaria
+Marburg virus disease - all outbreaks combined
+Measles (rubeola), in developing countries
+Meningococcal disease
+Middle Eastern Respiratory Syndrome
+Mumps encephalitis
+Pertussis (whooping cough), children, unvaccinated, in developing countries
+Pertussis (whooping cough), infants, unvaccinated, in developing countries
+Plague, pneumonic
+Plague, septicemic
+Plague — specifically the septicemic or pneumonic type
+Primary amoebic meningoencephalitis, Naegleria fowleri
+Prion diseases, or transmissible spongiform encephalopathies (TSE)
+Progeria
+Rabies
+Reyes Syndrome
+Severe acute respiratory syndrome (SARS)
+Smallpox, Variola major — in pregnant women
+Smallpox Variola major — specifically the malignant (flat) or hemorrhagic type
+Smallpox, Variola major — unvaccinated
+Smallpox, Variola major — vaccinated
+Smallpox, Variola minor — unvaccinated
+Spanish (1918) flu
+Tuberculosis, untreated pulmonary, HIV-negative
+Tularemia pneumonia, untreated
+Tularemia, typhoidal
+Tularemia, typhoidal, untreated
+Typhoid fever
+Typhoid fever, untreated
 Varicella (chickenpox), adults
-Hand, foot and mouth disease, children < 5 years old
 Varicella (chickenpox), children
+Varicella (chickenpox), newborns, untreated
+Venezuelan Equine Encephalitis (VEE)
+Visceral leishmaniasis
+Visceral leishmaniasis
+Yellow fever

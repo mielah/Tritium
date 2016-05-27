@@ -9,7 +9,6 @@ Glanders, septicemic	Untreated	95%		[6]
 Smallpox Variola major — specifically the malignant (flat) or hemorrhagic type	Untreated	~ 95%	The rate drops significantly to 10% with effective treatments.	[7]:28[8]
 Granulomatous amoebic encephalitis, Balamuthia mandrillaris & Acanthamoeba	None	≥ 90%		[9]
 Ebola virus disease — specifically EBOV "strain" (formerly Zaire Ebola virus)		~ 83%, up to 90%
-The CFR may be considerably lower with supportive care adopted in the 2013-15 West African epidemic.	[10][11]
 AIDS/HIV infection	Untreated	80–90%	Data are counted during the first 5 years of infection in developed countries. HIV is not actually mortal but patients are usually killed by respiratory diseases, such as flu or pneumonia because of immunodeficiency caused by HIV virus.	[12]:1
 Anthrax, specifically the pulmonary form	Untreated	> 85%	Early treatments lower the CFR to 45% as seen in the 2001 AMERITHRAX letter attacks.	[7]:88
 Lujo virus disease		80%		
@@ -27,7 +26,7 @@ Glanders, septicemic		50%		[6]
 Plague, pneumonic		50%		[7]:58
 Middle Eastern Respiratory Syndrome		~ 45%		
 Tuberculosis, untreated pulmonary, HIV-negative		43%		[17]
-Reye's Syndrome		> 40%		[18]
+Reyes Syndrome		> 40%		[18]
 Plague, septicemic		30–50%		[7]:58
 Tularemia, typhoidal, untreated	Untreated	~ 35%		[7]:77
 Yellow fever		7.5%		[19]
